@@ -1,3 +1,7 @@
-[submodule "clients"]
-	path = clients
-	url = https://github.com/katsisaac50/merncamp.git
+[submodule "client"]
+	path = client
+	url = https://github.com/katsisaac50/merncamp-client.git
+
+[submodule "server"]
+    path = server
+    url = https://github.com/katsisaac50/rmerncamp-server.git
